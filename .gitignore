@@ -1,0 +1,53 @@
+# --------------------------------------------------
+# OS & System Junk Files
+# --------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# --------------------------------------------------
+# Android Studio / Gradle Excludes
+# --------------------------------------------------
+.gradle/
+build/
+**/build/
+*.iml
+.idea/
+**/.idea/
+local.properties
+.cxx/
+**/captures/
+*.apk
+*.aab
+
+# --------------------------------------------------
+# Backend (CodeIgniter 4) & Node Excludes
+# --------------------------------------------------
+**/node_modules/
+backend-app/node_modules/
+backend-app/.env
+backend-app/vendor/
+backend-app/writable/cache/*
+!backend-app/writable/cache/index.html
+backend-app/writable/logs/*
+!backend-app/writable/logs/index.html
+backend-app/writable/session/*
+!backend-app/writable/session/index.html
+backend-app/writable/debugbar/*
+!backend-app/writable/debugbar/index.html
+backend-app/writable/uploads/*
+!backend-app/writable/uploads/index.html
+backend-app/php_errors.log
+
+# --------------------------------------------------
+# Temporary Logs & WhatsApp Media
+# --------------------------------------------------
+*.log
+WhatsApp Image*.jpeg
+WhatsApp Image*.jpg
+WhatsApp Image*.png

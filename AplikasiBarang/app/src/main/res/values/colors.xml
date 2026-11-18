@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand Palette -->
+    <color name="primary_dark">#0D3B82</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_light">#1E88E5</color>
+    <color name="primary_soft">#EFF6FF</color>
+
+    <!-- Secondary / Supplier Accent -->
+    <color name="teal_dark">#0F766E</color>
+    <color name="teal_accent">#0D9488</color>
+    <color name="teal_soft">#CCFBF1</color>
+
+    <!-- Neutral Surfaces & Text -->
+    <color name="bg_screen">#F4F7FB</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_subtle">#F8FAFC</color>
+    <color name="border_subtle">#E2E8F0</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <!-- Semantic Status Colors -->
+    <color name="success_text">#15803D</color>
+    <color name="success_bg">#DCFCE7</color>
+    <color name="warning_text">#B45309</color>
+    <color name="warning_bg">#FEF3C7</color>
+    <color name="danger_text">#DC2626</color>
+    <color name="danger_bg">#FEE2E2</color>
+</resources>
